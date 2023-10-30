@@ -7,8 +7,6 @@ Image classification and text detection application using AWS platform
 * AWS SQS Messaging Service 
 * AWS Rekognition
 
-## Architectural Diagram
-![ArchDiagram](https://github.com/phet2309/ProgrammingAssignment1/blob/main/Images/fig1.jpeg)
 
 ## Steps Performed
 - [x] AWS Learner's Lab Setup
