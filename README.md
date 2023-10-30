@@ -9,15 +9,15 @@ Image classification and text detection application using AWS platform
 
 
 ## Steps Performed
-- [x] AWS Learner's Lab Setup
-- [x] AWS Cli configuration
-- [x] IAM policy check
-- [x] AWS EC2 instance configuration
-- [x] SSH access to EC2 instances
-- [x] AWS SQS configuration
-- [x] Image recognition Java application
-- [x] Text detection java program
-- [x] Java application deployment on EC2 instances
+-  AWS Learner's Lab Setup
+-  AWS Cli configuration
+-  IAM policy check
+-  AWS EC2 instance configuration
+-  SSH access to EC2 instances
+-  AWS SQS configuration
+-  Image recognition Java application
+-  Text detection java program
+-  Java application deployment on EC2 instances
 
 ## Step-by-step guide
 ### AWS Learner's Lab Setup 
